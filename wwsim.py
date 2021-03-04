@@ -1,8 +1,8 @@
 
 # ECE 4524 Problem Set 2
 # File Name: wwsim.py
-# Author: Greg Scott
-#
+# Original Author: Greg Scott
+# Edited for Autonomous Agent by: Jason Hughes
 # Includes classes for the simulation and the Tkinter display of the simulation.
 # Also includes code to process the command-line input and run the program accordingly.
 
